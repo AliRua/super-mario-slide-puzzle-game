@@ -7,3 +7,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* global style */
+body {
+    font-family: "Tektur", sans-serif;
+    color: black;
+    background-image: url(../images/logo/sm-background.jpg);
+    background-repeat: no;
+}
