@@ -12,6 +12,10 @@
 body {
     font-family: "Tektur", sans-serif;
     color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     background-image: url(../images/logo/sm-background.jpg);
-    background-repeat: no;
+    background-repeat: no-repeat;
 }
